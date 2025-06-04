@@ -55,4 +55,5 @@ pip install -r requirement.txt
 - Triggers mouse events like move, click, drag and scrolling using gesture conditions
 
 ## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE-MIT) file for details.
+
