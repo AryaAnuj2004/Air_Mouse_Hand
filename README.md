@@ -40,12 +40,15 @@ pip install -r requirement.txt
    ```
    $ git clone https://github.com/AryaAnuj2004/Air_Mouse_Hand
    ```
-
-2. Ensure your webcam is connected.
-
-3. Run the script (in the Hand_Mouse directory):
+2. Install all the requirements.
    ```
-   python FullHandVirtualMouse.py
+   pip install -r requirement.txt
+   ```
+3. Ensure your webcam is connected or all the permissions of the camera are given to the system.
+
+4. Run the script (in the Hand_Mouse directory):
+   ```
+   python .\FullHandVirtualMouse.py
    ```
 
 ## 🧠 How It Works
