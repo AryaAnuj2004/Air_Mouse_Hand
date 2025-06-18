@@ -57,6 +57,9 @@ pip install -r requirement.txt
 - Maps the index finger position to your screen resolution.
 - Triggers mouse events like move, click, drag and scrolling using gesture conditions
 
+#### ⚠️ This project requires **Python 3.7 to 3.12**. Python 3.13 is not supported due to `mediapipe` compatibility issues.
+
+
 ## 📄 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE-MIT) file for details.
 
